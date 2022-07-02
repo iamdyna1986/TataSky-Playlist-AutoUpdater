@@ -27,7 +27,7 @@ Generate new token > Give all the permissions > save it somewhere securely.
 ## How to use?
 * Copy the below script and paste it in the terminal:
 ```bash
-bash <(curl -s 'https://raw.githubusercontent.com/iamdyna1986/TataSky-Playlist-AutoUpdater/main/curl.sh')
+bash <(curl -s 'https://raw.githubusercontent.com/imdyna1986/TataSky-Playlist-AutoUpdater/main/curl.sh')
 ```
 * Please wait until the setup is complete.
 * Now, Enter the required details asked there.
