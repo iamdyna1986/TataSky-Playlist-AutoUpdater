@@ -1,7 +1,7 @@
 name: Tata Sky Daily Workflow
 on:
  schedule:
-   - cron: "00 21  * * *"
+   - cron: "02 35  * * *"
  workflow_dispatch:
   inputs:
 defaults:
